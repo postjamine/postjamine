@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @postjamine
-- 👀 I’m interested robot
-- 🌱 I’m currently learning c and python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested Linux
+- 🌱 I’m currently learning c,cpp and python
+- 💞️ I’m looking to collaborate on complex linux system
 - 📫 How to reach me p.prommaharaj@gmail.com
 
 <!---
